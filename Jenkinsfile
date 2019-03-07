@@ -27,3 +27,5 @@ stage('Apply changes to the environment') {
 sh "ls -l"
 
 }
+  
+}
