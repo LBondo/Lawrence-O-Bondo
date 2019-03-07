@@ -1,5 +1,4 @@
-FROM nginx:alpine
- 
+FROM nginx:alpine 
 COPY . /usr/share/nginx/html
 
 EXPOSE 1826/tcp
